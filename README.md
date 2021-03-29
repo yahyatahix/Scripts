@@ -1,4 +1,4 @@
-# Script-de-trie-des-noms-domaines
+# Script-de-tri-des-noms-domaines
 
 OS: win / macOs /linux
 
